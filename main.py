@@ -21,7 +21,7 @@ def graph(data):
         "y": embeddings_2d[:, 1],
     })
     fig = px.scatter(df, x="x", y="y")
-    fig.to_html("embeddings_graph.html", auto_open=True)
+    fig.to_html("embeddings_graph.html")
 
 def run_from_save(file_path):
     with open(file_path, "r") as f:
