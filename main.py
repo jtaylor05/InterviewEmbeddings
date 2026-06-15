@@ -14,14 +14,14 @@ def get_embeddings(paragraphs):
     return model.encode(paragraphs)
 
 def graph(data):
-    reducer = umap.UMAP(n_neighbors=5, min_dist=0.3)
+    reducer = umap.UMAP(n_neighbors=5, min_dist=0.3, init='random')
     embeddings_2d = reducer.fit_transform(data)
     df = pd.DataFrame({
         "x": embeddings_2d[:, 0],
         "y": embeddings_2d[:, 1],
     })
     fig = px.scatter(df, x="x", y="y")
-    fig.to_html("embeddings_graph.html")
+    fig.write_html("embeddings_graph.html")
 
 def run_from_save(file_path):
     with open(file_path, "r") as f:
