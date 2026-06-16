@@ -1,0 +1,187 @@
+[Zoom call. Audio recording. The scholar appears on screen from a home office — bookshelves visible behind him, a coffee cup in frame.]
+
+Interviewer 1: Can you hear us okay?
+
+Scholar: Yeah, you're coming through clear. Can you hear me? Sometimes my mic does this weird thing where I sound underwater.
+
+Interviewer 2: You sound great.
+
+Scholar: Okay, good. Alright. So — you said you had about an hour?
+
+Interviewer 1: Yeah, an hour at most. We really appreciate you making time.
+
+Scholar: Of course. I should say upfront — I love talking about this stuff so you might have to cut me off. I'm one of those academics who can go on forever if you let me.
+
+Interviewer 2: That's the best problem to have.
+
+Scholar: [Laughs] We'll see if you still feel that way in 45 minutes. Okay, where do you want to start?
+
+Interviewer 1: Maybe just give us a sense of who you are and what you do? For the record.
+
+Scholar: Sure. So my background is — I grew up in Oregon. Willamette Valley. My parents weren't farmers but I was around agriculture growing up. The Willamette Valley is one of the most agriculturally productive regions in the country and there were farms everywhere. I think that shaped me early without me realizing it. I did my undergrad at Oregon State in environmental science. Then I worked in nonprofit conservation for about three years — I was doing watershed restoration work in the Pacific Northwest. And during that work I kept bumping into agriculture as the central question. You couldn't restore the watersheds without changing how the surrounding agriculture worked. So I went back for a PhD in agroecology. I did that at UC Davis. Finished in 2019. Then I did a postdoc for two years before moving east.
+
+Interviewer 2: What brought you to Virginia?
+
+Scholar: A few things. Personally — I was tired of the West Coast, honestly. Tired of the cost of living, tired of the political monoculture, tired of the same conversations. Professionally — I wanted to work in a region where the agricultural landscape was more mixed. The East Coast has this fascinating combination of small-scale diversified farms, mid-size conventional operations, large industrial poultry and pork, and remnant historical farmland with deep cultural significance. It's a more complex landscape to work in than what I was used to. And the regenerative agriculture movement is growing fast here in ways that I wanted to be part of. So I moved to Virginia in 2022.
+
+Interviewer 1: And you started your consultancy?
+
+Scholar: I started the consultancy in 2023. It took me about a year of being here to figure out the lay of the land and to build enough relationships that I could actually be useful to people. It's a B Corp — I felt strongly about the legal structure being intentional. It's me, just me right now, no employees. I work with farmers across Virginia who are interested in transitioning toward more ecological practices. Some are deep in the regenerative space already and want technical help. Others are conventional farmers who are curious and want a careful path toward change. The range is wide.
+
+Interviewer 2: Can you describe what consulting actually looks like day-to-day?
+
+Scholar: Sure. So a typical engagement starts with a farm visit. I'll spend a day on the property, walk the land, look at soil, look at infrastructure, look at the farmer's records, talk through their goals. And I want to be clear — the goals piece is the most important thing. A lot of consultants come in with answers. I come in with questions. What does the farmer actually want? Is it income stability? Is it ecological restoration? Is it transitioning to the next generation? Is it personal lifestyle change? Because the recommendations look totally different depending on what the goals are. After that initial visit I write up a report with observations and possibilities. Then we work together to choose which paths to pursue. Then I'm available for follow-up — usually monthly check-ins for the first year, less frequently after that. So it's relational. It's not a one-off transaction.
+
+Interviewer 1: How many clients do you have at a given time?
+
+Scholar: Eight to twelve active engagements. More than that and I can't give people the attention they need. The B Corp structure means I'm not optimizing for maximum revenue. I'm optimizing for actual impact on the farms I work with. So I'm pretty selective. I turn away work fairly often.
+
+Interviewer 2: That's interesting — turning away work isn't standard consultancy advice.
+
+Scholar: It's not. But it's been important for the integrity of the work. If I take on more clients than I can serve well, the work suffers, the relationships suffer, and ultimately the farms suffer. So I keep it small intentionally. I'd rather work deeply with twelve farms than superficially with thirty.
+
+Interviewer 1: How are you funded? Like, what's the business model?
+
+Scholar: A mix. Most of my revenue comes from fee-for-service consultancy. I have a sliding scale based on farm size and financial capacity — bigger commercial operations pay more, small new farmers pay less, sometimes nothing. I supplement that with grant-funded work. I have a partnership with two academic institutions where I do contracted research and outreach work. And I write — I have a Substack with a small but paid subscriber base, and I write for some agricultural publications. So it's diversified. The diversification is on purpose because consulting alone is unstable.
+
+Interviewer 2: Let's go to the research and writing side. Your published work covers a lot of ground. What are the main themes you've been working on?
+
+Scholar: My PhD dissertation was on diversified perennial systems in the western US — basically looking at how the integration of woody species into farming landscapes affects ecological function over time. So orchards, agroforestry, silvopasture. Since then my writing has expanded into broader questions about agroecological landscape design. How do you think about productive land at scales beyond the individual farm? What's the relationship between farm-level decisions and landscape-level outcomes? And probably the question that's gotten the most attention — and the one I'm probably most known for now — is the land sparing versus land sharing question.
+
+Interviewer 1: Can you explain what that is for people who don't know the term?
+
+Scholar: Sure. So the land sparing versus land sharing debate is one of the longest-running debates in conservation biology and agroecology. The simple version goes like this — if we want to produce food and also protect biodiversity and ecosystem function, what's the better strategy? Option A — land sparing — says: farm as intensively as possible on the smallest possible footprint, get the maximum yield per acre, and use the land you don't need for wild habitat. Option B — land sharing — says: farm in a way that integrates biodiversity directly into agricultural land. Lower yields per acre, but wildlife and ecological function are embedded throughout the landscape. There's no separate spared land. The farmed land is also habitat.
+
+Interviewer 2: Which side are you on?
+
+Scholar: [Laughs] I knew that was coming. The honest answer is — neither, fully. I'm increasingly convinced that the framing itself is the problem. The dichotomy doesn't capture how real landscapes work. There's a researcher named Claire Kremen — she's at UBC now, was at Berkeley for a long time — who's done some of the best work on this. She argues we need a "both-and" framing. Large protected areas surrounded by wildlife-friendly farmed matrices, working together synergistically rather than as competing strategies. I think she's mostly right.
+
+Interviewer 1: So they're not mutually exclusive?
+
+Scholar: Right. The original debate framed them as if you had to choose. And there are real empirical studies on both sides. There was a major paper by Phalan and colleagues in 2011 that found land sparing performed better for biodiversity in two specific case studies. There've been other studies pushing back, especially from researchers working in temperate mixed-use landscapes who find that diversified farming systems can support significant biodiversity. A meta-analysis from earlier this year actually suggested that for over half of the cases reviewed, a combination of sharing and sparing at the landscape level performed best. So the empirical picture is genuinely mixed. And I think that mixed picture is itself the answer — context matters enormously.
+
+Interviewer 2: So what's the implication of that for farmers and policymakers?
+
+Scholar: It means simple answers don't work. The "right" approach depends on where you are, what species you're trying to protect, what production systems make sense for the climate and culture, what the history of the land is, what alternative land uses exist. In some tropical contexts, sparing might genuinely be better — concentrating production on small, high-yield footprints and protecting large remaining habitats. In other contexts, especially in temperate mosaic landscapes like much of the eastern US, sharing through agroecology might do more for both biodiversity and food production. There's no global answer.
+
+Interviewer 1: And this connects to your own farming, right? You have an orchard?
+
+Scholar: I do. I bought a small property in central Virginia — Madison County, in the foothills — in 2023. About 18 acres. I've been planting an orchard, building it slowly. Mostly apples and pears, with some peaches and a few experimental species. And I want to be transparent — I'm not making a living from the orchard. It's a practice site for me. It's where I get my hands in the dirt and try things at a scale where my mistakes don't ruin anyone else's livelihood. I think it's important for someone in my role to actually farm, even small. Otherwise the consultancy becomes too theoretical.
+
+Interviewer 2: Why an orchard?
+
+Scholar: Two reasons. One — my dissertation work was on perennial systems and I wanted to keep doing that work in practice. Two — orchards are a great way to test certain regenerative practices at small scale. The questions about land sparing versus sharing actually play out in really interesting ways in an orchard context. Do you go very intensive — high-density dwarf rootstock, careful pruning, maximum yield per acre — and free up land for natural habitat elsewhere on the property? Or do you go more extensive — wider spacing, lower density, more wildlife-friendly understory, more biodiversity but lower yield? I'm experimenting with different approaches in different sections of the orchard so I can compare them directly over time.
+
+Interviewer 1: That's like a personal research experiment.
+
+Scholar: Exactly. The orchard is partly a long-term experiment that I'm running on myself. And I'm documenting it. I keep detailed records. In 15 years I'll have real data on which sections produced what, with what inputs, with what biodiversity outcomes. Some of that will end up in publications eventually. But also — and I want to be honest — I just love the orchard. It's the part of my life that's most pure pleasure. I go out there on weekends and prune and observe and think and it's the best part of my week.
+
+Interviewer 2: Is it lonely doing it solo?
+
+Scholar: Sometimes. I'm single. I don't have kids. So the farm — the orchard — is just me. Which has its advantages — I can do whatever I want with no compromise. And it has its costs — when something goes wrong, I'm alone with it. When the deer broke through my fence last spring and damaged a bunch of young trees, I came home from a conference, saw the damage, and just sat in the truck for a while. There was nobody to share that moment with. Which is fine, but it's a particular kind of solitude. The dating apps in rural Virginia are a different conversation entirely, and not one I want to have on the record. [Laughs]
+
+Interviewer 1: [Laughs] Fair enough. We can leave that.
+
+Scholar: Thank you. Okay, continue.
+
+Interviewer 2: How do farmers respond to your academic background? Is it ever a barrier?
+
+Scholar: It can be. And I'm very aware of it. I've learned to communicate differently in different contexts. When I'm with a farmer on their land, I do not lead with my credentials. Nobody cares that I have a PhD. They care whether I can be useful to them. They care whether I respect their knowledge. They care whether I'm going to be honest with them about what I don't know. So the academic credentials open some doors — I get invited to give talks, I get cited by other scholars, I get hired by institutions — but on a working farm, they're almost a liability if you lead with them. The trick is to bring the rigor without bringing the arrogance. There's a tradition of academic agriculturalists telling farmers what to do that's a hundred years old and a lot of it has been wrong. So I try to be in conversation, not in instruction.
+
+Interviewer 1: Have you had clients who started skeptical and came around?
+
+Scholar: Yeah, a few. I had one client — a third-generation conventional cattle operation in southwestern Virginia, about 600 acres — where the farmer was openly skeptical of me when we first met. He'd been pushed into hiring me by his daughter who was reading about regenerative agriculture and wanted the farm to evolve. He thought it was nonsense. But he was willing to humor me because of his daughter. And the first thing I did was just ask him questions. About his land, about his herd, about his history with the place. I didn't propose anything for the first three months. Just listened. And I think — I think that surprised him. Because his expectation was I'd come in with a binder of recommendations. And I came in with a notebook. Three years later, his pasture management has changed significantly. He's still running cattle, he's still making money, but he's also seeing soil improvement and water retention changes that have made his operation more resilient. He didn't change his identity. He just refined his practices. And he's become — I wouldn't call him an advocate exactly, but he speaks well of the work now. He's referred two other farmers to me.
+
+Interviewer 2: That's a beautiful story.
+
+Scholar: It's a story I tell when people ask me what success looks like. Because that — that's the real version. Not converting someone to regen agriculture overnight. It's helping someone refine what they're already doing toward better outcomes. And building enough trust over enough time that they let you in. It's slow work.
+
+Interviewer 1: Speaking of slow work — what's the timeline you think people need to commit to for real regenerative change?
+
+Scholar: Decades. Honestly. I tell every client this in our first conversation because if they think they can do this in three years, they're going to be disappointed. The soil takes a long time. The ecology takes a long time. The cultural shifts in the farming community take a long time. And the human relationships — between farmer and consumer, farmer and neighbor, farmer and land — those take a long time. So I tell people we're working on a 10-, 20-, 30-year frame. The good news is that small changes in year one often produce visible results that motivate continued work. But the deep changes — real soil restoration, real ecosystem function recovery, real changes in farm-level resilience — those take decades.
+
+Interviewer 2: Does that timeline conflict with the way agricultural economics work?
+
+Scholar: It does. Brutally. Farmers can't wait 20 years for a return on investment. They have payments. They have families. They have annual cycles of input costs and harvest sales. So the consultant role is partly helping farmers find the financial bridge that gets them through the transition period. Grants, cost-share programs, premium markets for transitional products, diversified revenue streams. There's a lot of careful financial design that has to happen to make the slow ecological work economically viable in the short term.
+
+Interviewer 1: Are those bridge funding sources getting better or worse?
+
+Scholar: Honestly? In Virginia specifically, mixed. Some state programs have stayed steady. Federal programs have been more volatile in the last couple of years — some have been cut, some have been delayed, the application processes have gotten more complex. NRCS programs are still there but more competitive. EQIP funds have been less reliable. So the funding landscape is harder than it was three years ago. Which makes my job harder because part of what I do is help farmers navigate that landscape, and the landscape keeps changing.
+
+Interviewer 2: Let's talk about your writing. You said you have a Substack — what kinds of things do you write about there?
+
+Scholar: It's where I work out ideas. I write essays — usually one a week, sometimes biweekly when things are busy. They range from technical pieces on specific practices to more philosophical reflections on what agriculture should look like in the 21st century. I try to bridge the academic literature and the on-the-ground reality. So I'll take a recent paper from a journal and translate it into accessible language with implications for actual farmers. Or I'll take a question I've encountered in my consulting work and dig into it with research support. It's been a useful discipline for me — forcing myself to write regularly, to think things through, to be accountable to readers.
+
+Interviewer 1: How big is the audience?
+
+Scholar: About 4,200 subscribers right now. Maybe 600 of those are paid subscribers. It's not huge by Substack standards but it's a really engaged audience. The comment sections are some of the best conversations I have. Farmers, academics, policymakers, just curious people. The writing is genuinely a form of community for me. And the paid subscriptions do contribute meaningfully to my income — probably 15% of my total revenue.
+
+Interviewer 2: Do you also publish in academic journals?
+
+Scholar: I do, less now than I used to. The academic publishing model is — honestly, it's broken in some ways. The peer review process can take 18 months to two years. The audience is small. The accessibility is poor. So I've shifted some of my writing energy toward more public-facing work where the timeline is shorter and the reach is broader. But I still publish academically when I have something that benefits from that level of scrutiny. I've had probably 14 peer-reviewed papers come out in the last six years. Mostly in journals like Agriculture, Ecosystems & Environment and the Journal of Sustainable Agriculture. A few in higher-profile journals.
+
+Interviewer 1: Do you go to conferences?
+
+Scholar: Yeah, a fair amount. I'm at probably six conferences a year — some academic, some industry, some farmer-focused. The annual Soil Health Institute meeting, the Sustainable Agriculture Society of America, the Pasa Sustainable Agriculture Conference. And I do invited talks at various universities and farm organizations. The conference travel is one of the more tiring parts of the job but it's also where a lot of the cross-pollination happens. I learn from other people in the field. I get exposure to ideas that influence my consulting work. And I meet potential clients sometimes — people who hear me speak and reach out later.
+
+Interviewer 2: What are the big debates happening at those conferences right now?
+
+Scholar: A few. One — exactly what we've been talking about. The land sparing versus sharing question. It's hotter now than it was five years ago partly because of climate pressure and biodiversity decline. Two — carbon markets and whether agricultural carbon sequestration can be reliably monetized, and whether that's a good thing even if it can be. There's a lot of skepticism in the agroecology community about the carbon market approach because it tends to privilege certain practices that are easier to measure over others that might matter more ecologically. Three — the future of organic certification. The certified organic market has grown a lot but it's also been corrupted in various ways and a lot of practitioners are looking for alternatives. Four — labor. Agricultural labor is in crisis in this country. Nobody wants to talk about that head-on because it intersects with immigration policy and a lot of other charged issues. But it's the elephant in every room. Without labor reform, none of the other reforms work.
+
+Interviewer 1: Can you say more about the labor piece?
+
+Scholar: Sure. So American agriculture, at all scales, has depended on undocumented labor for decades. That's just the empirical reality. Most of the food in this country is harvested by people without papers. And when policy makes that labor less available — through enforcement actions, through visa restrictions, whatever — agriculture is in trouble. There's no domestic workforce that wants those jobs at the wages farms can pay. So there's a structural mismatch between the labor needs of the food system and the policies governing labor. And the small farms I work with feel this acutely. Most of my clients can't even hire help at the rates they'd need to pay. They're working themselves into exhaustion. So when I say labor is the elephant in the room, I mean it. The future of small farms depends partly on whether there's a way to fund actual living wages for farmworkers. And right now, that's not on the table politically.
+
+Interviewer 2: What about technology? Like, where does precision agriculture and AI fit into the conversation?
+
+Scholar: Complicated. There are technologies that genuinely support regenerative practices — precision soil testing, drone imagery for pasture monitoring, GPS-guided rotational systems. I use a lot of these with clients. They're useful tools. And then there are technologies that are essentially designed to extend the industrial model — automated systems for confinement operations, AI-driven yield optimization that doesn't account for ecological costs, genetic technologies that lock farmers into specific seed and chemical dependencies. The tools themselves aren't inherently good or bad. It's how they're deployed and who controls them. The technology question always reduces to a power question for me. Who owns the data? Who profits? Who decides? Those are the questions that matter.
+
+Interviewer 1: Are you optimistic about the trajectory of American agriculture?
+
+Scholar: That's a question I get asked a lot. And the honest answer is — I'm more optimistic about the small-scale regenerative movement than I am about the industrial system. The industrial system is in real trouble, even if it doesn't fully realize it yet. Soil degradation, water depletion, declining margins, labor crisis, climate impacts. I think we're going to see a major reckoning in industrial agriculture over the next 20 years. Maybe sooner. Whether the regenerative and agroecological movement can scale up fast enough to fill that gap — I genuinely don't know. I hope so. The conditions are favorable in some ways. There's more consumer interest than there's been in generations. There's more young farmer interest than there's been. There's more academic and policy attention. But the structural barriers are immense. Land access, capital access, processing infrastructure, market infrastructure, labor.
+
+Interviewer 2: How does the broader political moment affect your work?
+
+Scholar: It affects it a lot. Honestly. The funding shifts I mentioned earlier are part of it. The cultural climate is part of it. There's been a real polarization around agriculture that wasn't as intense five years ago. Regenerative agriculture as a movement has historically had cross-political appeal — it shows up in conservative spaces because of its emphasis on independence, self-reliance, traditional knowledge. It shows up in progressive spaces because of climate, ecology, food justice. And maintaining that cross-political appeal is harder now. Some regenerative spaces have become more openly aligned with conservative politics. Some have become more aligned with progressive politics. And both sides distrust the other. Which is bad for the movement. Because the movement actually depends on broad coalition.
+
+Interviewer 1: Where do you sit personally?
+
+Scholar: I try to stay above the partisan stuff in my public work. Privately I have views. I'm — I lean left on most issues. I came out of California academia, that's not a secret. But I work with farmers across the political spectrum. I work with farmers who think Trump is a hero. I work with farmers who think the opposite. And my job isn't to debate them politically. It's to help them do better farming. And those personal political differences don't actually affect the technical work much. So I keep my own views mostly private and focus on the agriculture.
+
+Interviewer 2: Is that ever uncomfortable?
+
+Scholar: Sometimes. There are moments when a farmer says something that I really disagree with politically and I have to just hold space for it and move the conversation back to soil or cattle or whatever we're working on. Which is not — that's not satisfying in some ways. But it's the work. If I made my political views the price of admission for my consultancy, I'd be useless to half the farmers in this state. So I take a longer view. The relationships matter. The change happens slowly. And I try to model the kind of careful, evidence-based, non-ideological approach that I'd like to see more of in our broader civic life.
+
+Interviewer 1: Let's talk about the future. What do you want your work to look like in ten years?
+
+Scholar: I want to keep doing roughly what I'm doing, with some growth. Probably a small team eventually — one or two additional consultants who can take on cases I can't. I want to keep writing. I'd love to publish a book at some point. There's a book I'm slowly drafting on the agroecological landscape — synthesizing some of the work I've been doing on the sparing-sharing question and what it implies for how we actually structure rural America. That's a five-year project at least. And I want to keep the orchard growing. By year ten the orchard should be in serious production, which will be its own learning experience. And I want to keep being part of the academic and policy conversations. Not lose my connection to that world while I'm doing applied work.
+
+Interviewer 2: What's something you've been wrong about?
+
+Scholar: [Pause] Good question. A lot of things. Specific to this work — early in my consulting I thought the bigger barrier was knowledge. I thought farmers needed to know things they didn't know, and once I provided that knowledge, change would follow. I was naive. The bigger barriers are economic, social, and psychological. Knowledge is necessary but not sufficient. The farmers I work with usually know what to do, or can find out. What they need is the financial bridge, the community support, the confidence to take risks, the time to make the changes. So I've shifted from thinking of myself as a knowledge provider to thinking of myself as a — I guess a kind of guide or facilitator. The knowledge is just one input. The other inputs matter more than I initially understood.
+
+Interviewer 1: How has your thinking on land sparing versus land sharing evolved?
+
+Scholar: I've gotten less dogmatic. Five years ago I was more squarely in the land sharing camp — basically, agroecology as the answer. Now I think the picture is more nuanced. There are contexts where intensification on a small footprint genuinely is the better outcome — if it actually leads to protected habitat being conserved rather than just farmed by someone else. The "leakage" problem is real. You spare land here and someone else clears land elsewhere because demand is global. So the sparing logic only works if there's actual protection paired with the intensification. Which is a big if. In practice, I think most landscapes need a mosaic — protected core areas, agriculturally intensive zones that produce a lot, and a wildlife-friendly farming matrix that connects them. The pure either-or framing doesn't match the complexity of real landscapes.
+
+Interviewer 2: How does that inform what you tell individual farmers?
+
+Scholar: I usually ask them: what do you want your farm to be in 30 years? And then we work backward from there. If they want a high-production operation that funds significant habitat protection on their land — that's a sparing approach. We can talk about how to intensify ecologically responsibly. If they want a fully integrated wildlife-friendly farm where every acre is doing multiple things — that's a sharing approach. We can talk about diversification and biodiversity-supporting practices. Both can be done well. Both can be done badly. The values question comes first. The technical question comes after.
+
+Interviewer 1: That's a really thoughtful way to frame it.
+
+Scholar: It's hard-won. Took me years to land there. I used to argue for one approach as if it were universally correct. Working with actual farms cured me of that.
+
+Interviewer 2: We're running close to time. Any closing thoughts?
+
+Scholar: A few. One — the work of changing agriculture is multigenerational. Anyone who tells you they have a five-year plan to fix American agriculture is selling something. Real change happens slowly, through countless small decisions across thousands of farms, supported by policy and culture and infrastructure that also change slowly. Patience is essential. Two — the academic-practitioner divide is one of the most expensive divides in the field. Academics often don't understand on-the-ground realities. Practitioners often don't have time to engage with research. The people who can bridge those worlds are valuable, and I'd like to see more of them. Three — the human dimension matters more than I think most policy and research acknowledges. Farmers are not optimization machines. They're people with values, identities, traumas, hopes. The change has to honor that. And four — I'm genuinely hopeful, even though things are hard. Because the people doing this work — the farmers, the researchers, the policy advocates, the consumers asking better questions — there are more of them every year. The trajectory is moving. Maybe not as fast as the urgency demands. But it's moving.
+
+Interviewer 1: Thank you so much. This was incredibly valuable.
+
+Scholar: Thank you both. Really. I appreciate the careful questions. And I'd be curious to see what you produce when you're done. If you want to send me anything, my contact's in the email I sent. And good luck with the rest of the project.
+
+Interviewer 2: We will. Take care.
+
+Scholar: Take care.
+
+[Call ends.]
