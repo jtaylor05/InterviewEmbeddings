@@ -1,1 +1,2 @@
-from .InterviewIterator import InterviewIterator
+from .iterator import InterviewIterator
+from .dataset import InterviewDataset
