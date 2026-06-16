@@ -19,14 +19,14 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-Then you can run the command as long as you have a GPU, or you can use the raw embeddings.
+Then you must process your interview data:
 
-For a .docx file
 ```bash
-python main.py <file_path> -g 
+python process.py --save_dataset=path_to_dataset path/to/interviews/*
 ```
 
-For an embeddings file
+The embeddings should be saved to the file embeddings.txt in the same directory as you ran this file. You can then graph your data with:
+
 ```bash
-python main.py <file_path> -fg
+python graph.py embeddings.txt
 ```
