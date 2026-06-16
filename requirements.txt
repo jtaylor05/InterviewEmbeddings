@@ -1,5 +1,6 @@
+pandas
+plotly
 python-docx
+scikit-learn
 sentence-transformers
 umap-learn
-plotly
-pandas
