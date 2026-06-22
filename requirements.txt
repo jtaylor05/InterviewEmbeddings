@@ -1,5 +1,5 @@
+matplotlib
 pandas
-plotly
 python-docx
 scikit-learn
 sentence-transformers
